@@ -1,7 +1,8 @@
 h3{
  color: brown; 
 text-decoration: yellow overline underline 6px dashed;
-  word-spacing: 10px;
+ font-size: 30px; 
+ word-spacing: 10px;
   text-shadow: 2px 2px 5px brown;
 }
 
